@@ -1,0 +1,19 @@
+{
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "Ariake Dark",
+    "workbench.startupEditor": "newUntitledFile",
+    "atomKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": false,
+    "editor.renderIndentGuides": false,
+    "editor.tabSize": 2,
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "window.zoomLevel": -1,
+    "explorer.openEditors.visible": 0,
+    "workbench.tips.enabled": false,
+    "eslint.packageManager": "yarn",
+    "window.titleBarStyle": "custom"
+}
